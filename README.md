@@ -9,7 +9,9 @@
 2) 게시글 작성
 -글 작성/등록/삭제
 -학과 태그 등록/검색/삭제
-![image](https://github.com/user-attachments/assets/ed9704a6-059c-4344-92c9-584838c5aa5a)
+
+![화면 캡처 2024-10-03 210316](https://github.com/user-attachments/assets/7a996553-b149-47d8-97fc-e831cf5c1fc8)
+
 
 <!--
 **Jak-Sho/Jak-Sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
