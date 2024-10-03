@@ -1,4 +1,11 @@
 ## Hi there 👋
+# 학사 관리 서비스 
+#  학생 - 수강 과목
+주요 기능 
+(dot) 학과 사이트 회원가입
+2) 로그인 및 로그아웃, 회원 탈퇴
+
+
 
 <!--
 **Jak-Sho/Jak-Sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
