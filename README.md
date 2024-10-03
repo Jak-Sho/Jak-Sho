@@ -1,11 +1,15 @@
 ## Hi there 👋
 # 학사 관리 서비스 
-#  학생 - 수강 과목
+#  학사 - 학생
 주요 기능 
-(dot) 학과 사이트 회원가입
-2) 로그인 및 로그아웃, 회원 탈퇴
+1)
+-학과 사이트 회원가입
+-로그인 및 로그아웃, 회원 탈퇴
 
-
+2) 게시글 작성
+-글 작성/등록/삭제
+-학과 태그 등록/검색/삭제
+![image](https://github.com/user-attachments/assets/ed9704a6-059c-4344-92c9-584838c5aa5a)
 
 <!--
 **Jak-Sho/Jak-Sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
