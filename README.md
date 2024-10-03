@@ -10,9 +10,8 @@
 -글 작성/등록/삭제
 -학과 태그 등록/검색/삭제
 
+![화면 캡처 2024-10-03 210316](https://github.com/user-attachments/assets/35fb6305-48dc-41bb-8596-47b517c98957){: width="100" height="100"}
 
-
-<img src="(https://github.com/user-attachments/assets/7a996553-b149-47d8-97fc-e831cf5c1fc8)" width="40%">
 
 
 <!--
